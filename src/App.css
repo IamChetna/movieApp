@@ -1,0 +1,41 @@
+.list{
+  display: flex;
+  flex-direction: row;
+  height: 500px;
+  margin: 10px;
+  overflow-x: auto;
+  flex-wrap: wrap;
+  
+ 
+ 
+}
+
+
+
+.movie_div{
+  margin: 10px;
+display: flex;
+
+}
+
+.title{
+  background-color: rgb(229, 190, 190);
+text-align: center;
+
+
+}
+.movie{
+  margin: 5px;
+ 
+  padding: 5px;
+  height: 50%;
+  width: 40%;
+}
+.movie img{
+  
+  height: 100%;
+
+}
+.movie h6{
+  margin: 10px;
+}
